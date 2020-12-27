@@ -1,0 +1,23 @@
+
+.form{
+    margin-top: 20px;
+    background: #fff;
+    border-radius: 5px;
+    height: 25px;
+    border: none;
+    box-shadow: 0 0 3px rgba(0,0,0,0.3)
+}
+
+.button{
+    margin-top: 20px;
+    background: #e0ad16;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    border-radius: 3px;
+}
+
+.button:hover{
+    opacity: 80%;
+}
+
+
